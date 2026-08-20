@@ -6,7 +6,7 @@ A simple Python project using OpenWeatherMap API.
 import requests
 
 # Replace this with your actual API key
-API_KEY = "YOUR_API_KEY"
+API_KEY = "1ff1d79c729a361543b776bc6ed4c0af"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 
